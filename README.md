@@ -10,7 +10,7 @@ Simple notebook to stream torrent files to Google Drive using Google Colab and p
 3. Run the whole notebook (**Runtime > Run all**).
 4. Follow directions there.
 
-After download finishes the downloaded files will be in there in your drive in a folder named "***Torrent***".
+After download finishes the downloaded files will be in there in your drive.
 
 ### What is the purpose of it?
 1. Because of Google Servers speed, I downloaded 35GB of file and the average speed was 60MBPS.
