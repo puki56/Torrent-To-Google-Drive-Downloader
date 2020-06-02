@@ -23,6 +23,8 @@ After download finishes the downloaded files will be in there in your drive.
 
 ![Pasting Torrent Link](https://github.com/Vivaaz18/Torrent-To-Google-Drive-Downloader/raw/master/Image/02.jpg)
 
+![Download Completed](https://github.com/Vivaaz18/Torrent-To-Google-Drive-Downloader/raw/master/Image/03.jpg)
+
 ### Frequently Asked Questions
 1. **How get more disk space**: We can now download bigger torrents. To do it
 
